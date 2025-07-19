@@ -1,5 +1,3 @@
-# Week 2 - Mini Project 1 - Inventory Management System:
-
 import json
 
 INVENTORY_FILE = "inventory.json"
